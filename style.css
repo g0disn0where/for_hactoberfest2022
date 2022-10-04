@@ -1,0 +1,14 @@
+
+h1.author{
+    color:rgb(103, 99, 99);
+    font-family: Comic Sans MS;
+    font-size: 48px;
+    /* text-decoration: gold; */
+}
+h2.p.a{
+    column-count: 3;
+    column-gap: 50px;
+    color: blue;
+    background-color: grey;
+
+}
